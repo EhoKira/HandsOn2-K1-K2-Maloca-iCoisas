@@ -1,2 +1,2 @@
-# HandsOn2-K1-K2-Maloca-iCoisas
-Repositório destino aos projetos K1 e K2 feitos na primeira e segunda semana do Modulo 5 - Hands On Intermediary.
+# HandsOn Intermediary Maloca das iCoisas
+Repositório criado para a etapa de Hands On Intermediary do curso do Maloca das iCoisas.
